@@ -15,7 +15,12 @@
     margin: .8rem auto 1rem auto;
  }
 
- i{
+ i {
+    color: white;
+    margin-right: .6rem;
+ }
+
+ a{
     color: white;
  }
  
