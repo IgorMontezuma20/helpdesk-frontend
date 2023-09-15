@@ -1,9 +1,24 @@
-.container{
-    width: 90%;
-    margin: auto;
+.container {
+  width: 90%;
+  margin: auto;
 }
 
 table {
-    width: 100%;
+  width: 100%;
 }
-  
+
+button {
+  width: 100%;
+  margin-bottom: 6px;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+mat-form-field {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
