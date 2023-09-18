@@ -3,6 +3,14 @@
   margin: auto;
 }
 
+.edit {
+  color: rgb(0, 153, 255);
+}
+
+.delete {
+  color: red;
+}
+
 table {
   width: 100%;
 }
